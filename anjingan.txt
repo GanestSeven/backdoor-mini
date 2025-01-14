@@ -233,15 +233,15 @@ select:after {
 @keyframes animate{ to { background-position: 200% center;
       }
     }
-body, a, button:link{cursor:url(http://4.bp.blogspot.com/-hAF7tPUnmEE/TwGR3lRH0EI/AAAAAAAAAs8/6pki22hc3NE/s1600/ass.png), 
+body, a, button:link{cursor:url(https://raw.githubusercontent.com/GanestSeven/script/refs/heads/main/cursorpenis.png), 
     default;
 } 
     button:hover {
-    cursor:url(http://3.bp.blogspot.com/-bRikgqeZx0Q/TwGR4MUEC7I/AAAAAAAAAtA/isJmS0r35Qw/s1600/pointer.png),
+    cursor:url(https://raw.githubusercontent.com/GanestSeven/script/refs/heads/main/cursorpenis.png),
     wait;
 }
     a:hover {
-    cursor:url(http://3.bp.blogspot.com/-bRikgqeZx0Q/TwGR4MUEC7I/AAAAAAAAAtA/isJmS0r35Qw/s1600/pointer.png),
+    cursor:url(https://raw.githubusercontent.com/GanestSeven/script/refs/heads/main/cursorpenis.png),
     wait;
 }
 </style>
